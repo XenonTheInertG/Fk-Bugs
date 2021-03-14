@@ -1,3 +1,4 @@
+![Screenshot_20210314-210838-1](https://user-images.githubusercontent.com/78007167/111077406-d7237080-851a-11eb-95f0-19e57ed68553.jpg)
 # Fk-Bugs
 fk android with this.
 How to use this?:|
