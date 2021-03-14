@@ -9,4 +9,4 @@ A custom ROM is essentially a firmware based on the Android source code provided
 # What's a android bug?
 Bugs: The custom ROM hasn't been tested by your manufacturer and carrier, so you may run into other bugs specific to your device and ROM. You could also experience system instability, with apps force-closing and the phone randomly restarting itself.
 
-This is XenonTheInertG,Satisfying his hunger
+Support me by giving star onmy repos;))
