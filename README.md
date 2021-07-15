@@ -2,8 +2,10 @@
 # Fk-Bugs
 fk android with this.
 How to use this?:|
-Put the patch in sytem/xxxx folder. Zip it & flash. 
+Put the patch in `sytem/xxxx` folder. Zip it & flash. 
 [Example](https://github.com/XenonTheInertG/Fk-Bugs/blob/main/system/README.mkdn)
+
+
 Boooooom! You are done
 
 # What's a custom rom?
