@@ -5,4 +5,4 @@ Fix any kinda android custom ROMs,GSI bugs easily
 - Usage
 Put the patch in `sytem/xxxx` folder. Zip it & flash it via custom recovery
 
-[Example](https://github.com/XenonTheInertG/Fk-Bugs/blob/main/system/README.mkdn
+[Example](https://github.com/XenonTheInertG/Fk-Bugs/blob/main/system/README.mkdn)
