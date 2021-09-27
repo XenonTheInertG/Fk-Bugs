@@ -1,5 +1,6 @@
 ```bash 
 Put your files here with exact directory. Like if wanna fix my audio. then i gotta copy audio libs from system/hw/audio
-It'll be like this:
+
+- It'll be like this:
 system/hw/audio/(files)
 ```
