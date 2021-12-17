@@ -4,4 +4,4 @@ package_extract_dir("system", "/system");
 unmount("/system");
 ui_print("done");
 ui_print("");
-ui_print("Install Completed");
+ui_print("Installation Completed");
